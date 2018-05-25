@@ -85,11 +85,6 @@ namespace DataBinding
 
 
         #endregion
-        #region Metodos
-        public override string ToString()
-        {
-            return $"{Nombre} | {Pais} | { Saldo} | { FechaDeNacimiento}";
-        }
-        #endregion
+       
     }
 }

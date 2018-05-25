@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Text;
 
 namespace DataBinding
@@ -25,6 +26,11 @@ namespace DataBinding
                 personas = value;
                 OnPropertyChanged();
             }
+        }
+
+        private void OnPropertyChanged()
+        {
+            throw new NotImplementedException();
         }
 
         public Persona PersonaSeleccionada
@@ -63,4 +69,4 @@ namespace DataBinding
         #endregion
     }
 }
-}
+
