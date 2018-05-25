@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding.iOS\\DataBinding.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding.iOS\\DataBinding.iOS.csproj",
       "projectName": "DataBinding.iOS",
-      "projectPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding.iOS\\DataBinding.iOS.csproj",
+      "projectPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding.iOS\\DataBinding.iOS.csproj",
       "packagesPath": "C:\\Users\\Yessi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -743,8 +743,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj": {
-              "projectPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj"
+            "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj": {
+              "projectPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj"
             }
           }
         }

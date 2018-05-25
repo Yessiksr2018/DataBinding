@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj",
+      "projectUniqueName": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj",
       "projectName": "DataBinding",
-      "projectPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj",
+      "projectPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj",
       "packagesPath": "C:\\Users\\Yessi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding\\obj\\",
+      "outputPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

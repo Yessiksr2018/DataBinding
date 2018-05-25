@@ -2,13 +2,22 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:DataBinding"
-             x:Class="DataBinding.MainPage">
-
-    <StackLayout>
-        <!-- Place new controls here -->
-    	<Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+             x:Class="DataBinding.MainPage"
+             Title="Conceptos Binding">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:Persona x:Key="personaUno"
+                           Nombre="Jose"
+                           Pais="Colombia">
+            </local:Persona>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="{Binding Nombre,Source={StaticResource personaUno},Mode=TwoWay}"></Label>
+            <Label Text="{Binding Pais,Source={StaticResource personaUno},Mode=TwoWay}"></Label>
+            <Button Text="Enviar" x:Name="btnEnviar"></Button>
+        </StackLayout>
+    </ContentPage.Content>
 
 </ContentPage>

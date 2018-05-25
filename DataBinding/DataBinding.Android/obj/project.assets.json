@@ -765,11 +765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding.Android\\DataBinding.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding.Android\\DataBinding.Android.csproj",
       "projectName": "DataBinding.Android",
-      "projectPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding.Android\\DataBinding.Android.csproj",
+      "projectPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding.Android\\DataBinding.Android.csproj",
       "packagesPath": "C:\\Users\\Yessi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding.Android\\obj\\",
+      "outputPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -786,8 +786,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj": {
-              "projectPath": "C:\\Users\\Yessi\\source\\repos\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj"
+            "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj": {
+              "projectPath": "C:\\Users\\Yessi\\Documents\\GitHub\\DataBinding\\DataBinding\\DataBinding\\DataBinding.csproj"
             }
           }
         }
